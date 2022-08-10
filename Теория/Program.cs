@@ -73,7 +73,7 @@ int[] array = {17,23,35,4,53,26,71,87};
 int n = array.Length;
 int find = 26;
 int index = 0;
-while(index<0)
+while( index < n)
 {
     if(array[index] == find)
     {

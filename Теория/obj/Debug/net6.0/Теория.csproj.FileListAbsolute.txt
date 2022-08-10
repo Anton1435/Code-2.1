@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Код урок 2\Теория\bin\Debug\net6.0\Теория.exe
+C:\Users\User\Desktop\Код урок 2\Теория\bin\Debug\net6.0\Теория.deps.json
+C:\Users\User\Desktop\Код урок 2\Теория\bin\Debug\net6.0\Теория.runtimeconfig.json
+C:\Users\User\Desktop\Код урок 2\Теория\bin\Debug\net6.0\Теория.dll
+C:\Users\User\Desktop\Код урок 2\Теория\bin\Debug\net6.0\Теория.pdb
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.AssemblyInfo.cs
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.dll
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\refint\Теория.dll
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.pdb
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\Теория.genruntimeconfig.cache
+C:\Users\User\Desktop\Код урок 2\Теория\obj\Debug\net6.0\ref\Теория.dll
