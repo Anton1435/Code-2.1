@@ -87,7 +87,7 @@
 
 ///////////// рандомные числа.
 
-void FillArray(int[]collection)
+void FillArray(int[]collection)         /// метод заполнения масива
 
 {
     int length = collection.Length;
@@ -99,7 +99,7 @@ void FillArray(int[]collection)
     }
 }
 
-void PrintArray(int[] col)
+void PrintArray(int[] col)    //// печать массива на экран
 {
     int count = col.Length;
     int position = 0;
@@ -110,7 +110,30 @@ void PrintArray(int[] col)
     }
 }
 
+int IndexOf(int[] collection,int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = 0;
+
+    while(index < count)
+    {
+        if(collection[index]== find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    }
+    return position;
+}
+
 int[] array = new int [10];
 
 FillArray(array);
 PrintArray(array);
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);
+
