@@ -69,17 +69,48 @@
 ///////// Поиск позиций нужного нам элемента. Имется одномерный массив array из n элементов,требуется 
 /////////  наити элемент массива, равный find.
 
-int[] array = {17,23,35,4,53,26,71,87};
-int n = array.Length;
-int find = 26;
-int index = 0;
-while( index < n)
-{
-    if(array[index] == find)
-    {
-        Console.WriteLine(index);
-        break;
-    }
-    index++;
-}
+//int[] array = {17,23,35,4,53,26,71,87};
+//int n = array.Length;
+//int find = 26;
+//int index = 0;
+//while( index < n)
+//{
+  //  if(array[index] == find)
+    //{
+      //  Console.WriteLine(index);
+      //  break;
+    //}
+    //index++;
+//}
+
+
+
 ///////////// рандомные числа.
+
+void FillArray(int[]collection)
+
+{
+    int length = collection.Length;
+    int index = 0;
+    while(index < length)
+    {
+        collection[index] = new Random().Next(1,10);
+        index++;
+    }
+}
+
+void PrintArray(int[] col)
+{
+    int count = col.Length;
+    int position = 0;
+    while(position < count)
+    {
+        Console.WriteLine(col[position]);
+        position++;
+    }
+}
+
+int[] array = new int [10];
+
+FillArray(array);
+PrintArray(array);
